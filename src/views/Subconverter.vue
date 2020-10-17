@@ -291,19 +291,14 @@ export default {
             label: "Own",
             options: [
               {
-                label: "自用",
-                value: "https://raw.githubusercontent.com/xqXQzzz1/ClashWebBatAHK/master/App/subconverter/config/OwnSSR_remote.ini"
+                label: "自用(与Github同步)",
+                value: "https://raw.githubusercontent.com/xqXQzzz1/clashpref/main/OwnSSR_remote.ini"
               }
             ]
           },
           {
             label: "ACL4SSR",
             options: [
-              {
-                label: "ACL4SSR_Online 默认版 分组比较全 (与Github同步)",
-                value:
-                  ""
-              },
               {
                 label: "ACL4SSR_Online_AdblockPlus 更多去广告 (与Github同步)",
                 value:
